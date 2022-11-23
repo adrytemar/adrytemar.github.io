@@ -1,0 +1,49 @@
+
+body{
+background-size: cover;
+background-image: url('https://i.pinimg.com/564x/a9/94/ed/a994edd333024f7e6d59cb81c5c452c5.jpg');
+text-align: center;}
+
+
+header {
+  background: url('https://mascotbooks.com/wp-content/uploads/2020/06/Production-Blog-Image-scaled.jpg');
+  background-size: cover;
+  height: 200px;
+  width: 1350px;}
+header h1 {
+  font-size: 45px;
+  font-family:serif;
+  color: black;
+  text-align: center;
+  text-shadow: 5px 5px 15px white}
+
+
+ul li {
+  background: #FFE4B5;
+  padding: 3px;
+  border: solid 2px #D2B48C;
+  display: inline-block;
+  font-size: 20px;}
+ul li a {
+  color: black;
+  text-decoration:overline;}
+ul li a:hover {
+  color: #C0C0C0;}
+
+
+  h1{font-size: 30px;}
+
+
+ol {
+  padding: 3px;
+  border: solid 2px #D2B48C;
+  display: inline-block;
+  font-size: 20px;
+  text-align:left;
+}
+
+
+footer {
+position:relative;
+bottom:10px;
+font-size: 10px;}
